@@ -15,7 +15,7 @@ namespace ECS
         {
             Console.WriteLine(executor + "去泡咖啡");
             Console.WriteLine("站起來");
-            Console.WriteLine("路徑不同");
+            //"路徑不同"
             if (executor == "Mike")
             {
                 Console.WriteLine("走路");
