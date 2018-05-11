@@ -21,6 +21,7 @@ namespace ECS
             Console.WriteLine("走路");
             Console.WriteLine("磨咖啡");
             Console.WriteLine("泡咖啡");
+            Console.WriteLine("手冲5秒鐘");
             Thread.Sleep(5000);
             Console.WriteLine("倒咖啡");
             Console.WriteLine("走路");
