@@ -1,0 +1,10 @@
+D:\Test folder\ECS\bin\Debug\netcoreapp2.0\ECS.deps.json
+D:\Test folder\ECS\bin\Debug\netcoreapp2.0\ECS.runtimeconfig.json
+D:\Test folder\ECS\bin\Debug\netcoreapp2.0\ECS.runtimeconfig.dev.json
+D:\Test folder\ECS\bin\Debug\netcoreapp2.0\ECS.dll
+D:\Test folder\ECS\bin\Debug\netcoreapp2.0\ECS.pdb
+D:\Test folder\ECS\obj\Debug\netcoreapp2.0\ECS.csproj.CoreCompileInputs.cache
+D:\Test folder\ECS\obj\Debug\netcoreapp2.0\ECS.AssemblyInfoInputs.cache
+D:\Test folder\ECS\obj\Debug\netcoreapp2.0\ECS.AssemblyInfo.cs
+D:\Test folder\ECS\obj\Debug\netcoreapp2.0\ECS.dll
+D:\Test folder\ECS\obj\Debug\netcoreapp2.0\ECS.pdb
