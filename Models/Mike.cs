@@ -6,7 +6,7 @@ namespace ECS.User
     class Mike : IExecutor, IPeople
     {
         public string MoveMethod { get; set; } = "腳";
-        public string Name = "Mike";
+        public string Name { get; set; } = "Mike";
 
         public void MakeCoffee()
         {

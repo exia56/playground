@@ -11,12 +11,13 @@ namespace ECS.E303
         static void Main(string[] args)
         {
             IExecutor executor = new Yvonne();
+            //IExecutor executor = new Mike();
             makeCoffee(executor);
         }
 
         static void makeCoffee(IExecutor executor)
         {
-            Console.WriteLine(executor + "去泡咖啡");
+            Console.WriteLine((executor as IPeople).Name + "去泡咖啡");
             Console.WriteLine("站起來");
             //"路徑不同"
             executor.MoveToTeaRoom();
